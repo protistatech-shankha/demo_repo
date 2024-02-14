@@ -1,6 +1,6 @@
 @extends('layouts.master')
 @section('content')
-
+<!---- add this section for 2nd commit test---->
 	<!-- Sidebar -->
     <div class="sidebar" id="sidebar">
         <div class="sidebar-inner slimscroll">
