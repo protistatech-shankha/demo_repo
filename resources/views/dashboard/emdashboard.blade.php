@@ -3,7 +3,7 @@
 @extends('sidebar.dashboard')
 @endsection --}}
 @section('content')
-
+<!---- add this section for 3rd commit for test--->
     <!-- Sidebar -->
     <div class="sidebar" id="sidebar">
         <div class="sidebar-inner slimscroll">
